@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ansuyadulal
-- 👀 I’m interested in ... software engineering (frontend)
-- 🌱 I’m currently learning ... html, c++, javascript
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... Machine learning and AI
+- 🌱 I’m currently learning ... C
 
 <!---
 ansuyadulal/ansuyadulal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
